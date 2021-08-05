@@ -1,0 +1,20 @@
+strong {
+  font-size: 2rem;
+}
+
+.standOut {
+  border: 1px solid blue;
+  padding: 10px;
+}
+
+.weak {
+  color: red;
+}
+
+.medium {
+  color: orange;
+}
+
+.strong {
+  color: green;
+}
